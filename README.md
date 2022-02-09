@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Andrew-TecSee
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Network Engineer At Microsoft
+- 💞️ I’m looking to collaborate on Network Engineer 
 - 📫 How to reach me +201555115180
 
 <!---
